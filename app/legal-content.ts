@@ -19,101 +19,101 @@ export const termsOfUseContent: LegalDocumentSet = {
     platformTitle: "BioNum for iOS",
     sections: [
       {
-        title: "1. Общие положения",
+        title: "1. General Provisions",
         paragraphs: [
-          "Настоящие Условия использования регулируют доступ и использование мобильного приложения BioNum, доступного через App Store.",
-          "Используя Приложение, вы подтверждаете, что ознакомились с настоящими Условиями и соглашаетесь их соблюдать.",
+          "These Terms of Use govern access to and use of the BioNum mobile application available through the App Store.",
+          "By using the App, you confirm that you have read these Terms and agree to comply with them.",
         ],
       },
       {
-        title: "2. Характер предоставляемых услуг",
+        title: "2. Nature of the Services",
         paragraphs: [
-          "BioNum предоставляет нумерологические интерпретации, расчеты и контент, основанный на символических и эзотерических подходах.",
-          "Вся информация в Приложении:",
+          "BioNum provides numerological interpretations, calculations, and content based on symbolic and esoteric approaches.",
+          "All information in the App:",
         ],
         bullets: [
-          "носит исключительно развлекательный и информационный характер",
-          "не является научно подтвержденной",
-          "не является точным прогнозом или предсказанием",
-          "не гарантирует каких-либо результатов или событий",
+          "is intended solely for entertainment and informational purposes",
+          "is not scientifically validated",
+          "is not an accurate forecast or prediction",
+          "does not guarantee any results or events",
         ],
       },
       {
-        title: "3. Отказ от профессиональной ответственности",
+        title: "3. Professional Advice Disclaimer",
         paragraphs: [
-          "Контент Приложения не является:",
-          "Вы не должны принимать решения, полагаясь исключительно на информацию из Приложения.",
+          "The content of the App does not constitute:",
+          "You should not make decisions based solely on information from the App.",
         ],
         bullets: [
-          "медицинской консультацией",
-          "психологической помощью",
-          "финансовым или инвестиционным советом",
-          "юридической рекомендацией",
+          "medical advice",
+          "psychological counseling",
+          "financial or investment advice",
+          "legal advice",
         ],
       },
       {
-        title: "4. Подписки и платежи (Apple In-App Purchases)",
+        title: "4. Subscriptions and Payments (Apple In-App Purchases)",
         paragraphs: [
-          "Некоторые функции Приложения доступны по подписке через систему Apple In-App Purchases.",
+          "Some features of the App are available by subscription through Apple In-App Purchases.",
         ],
         bullets: [
-          "Оплата списывается с вашего Apple ID при подтверждении покупки",
-          "Подписка автоматически продлевается, если не отменена минимум за 24 часа до окончания текущего периода",
-          "Управление подпиской осуществляется в настройках Apple ID",
-          "Возвраты регулируются правилами Apple",
+          "Payment is charged to your Apple ID when the purchase is confirmed",
+          "The subscription renews automatically unless canceled at least 24 hours before the end of the current period",
+          "You can manage your subscription in your Apple ID settings",
+          "Refunds are subject to Apple's policies",
         ],
       },
       {
-        title: "5. Ответственность пользователя",
+        title: "5. User Responsibility",
         paragraphs: [
-          "Пользователь самостоятельно принимает все решения и несет за них полную ответственность.",
-          "BioNum не несет ответственности за:",
+          "Users make all decisions independently and bear full responsibility for them.",
+          "BioNum is not responsible for:",
         ],
         bullets: [
-          "действия пользователя",
-          "последствия принятых решений",
-          "возможные прямые или косвенные убытки",
+          "user actions",
+          "the consequences of decisions made",
+          "any direct or indirect losses",
         ],
       },
       {
-        title: "6. Отсутствие гарантий",
+        title: "6. No Warranties",
         paragraphs: [
-          "Приложение предоставляется по принципу as is.",
-          "BioNum не гарантирует:",
+          'The App is provided on an "as is" basis.',
+          "BioNum does not guarantee:",
         ],
         bullets: [
-          "точность информации",
-          "достижение конкретных результатов",
-          "полное соответствие ожиданиям пользователя",
+          "the accuracy of the information",
+          "the achievement of specific results",
+          "that the App will fully meet user expectations",
         ],
       },
       {
-        title: "7. Ограничение ответственности",
+        title: "7. Limitation of Liability",
         paragraphs: [
-          "В максимально допустимой действующим законодательством степени BioNum не несет ответственности за любые косвенные, случайные, специальные, штрафные или последующие убытки, включая, но не ограничиваясь, упущенной выгодой, потерей данных, репутационными потерями или иными нематериальными убытками, возникающими в связи с использованием или невозможностью использования Приложения.",
-          "Общая совокупная ответственность BioNum по любым требованиям, связанным с использованием Приложения, ограничивается суммой, фактически уплаченной пользователем за последние 12 (двенадцать) месяцев, предшествующих событию, повлекшему возникновение требования, но в любом случае не превышает 100 (сто) долларов США, эквивалентных в местной валюте.",
+          "To the fullest extent permitted by applicable law, BioNum is not liable for any indirect, incidental, special, punitive, or consequential damages, including, without limitation, lost profits, loss of data, reputational harm, or other intangible losses arising from the use of or inability to use the App.",
+          "BioNum's total aggregate liability for any claims related to the use of the App is limited to the amount actually paid by the user during the 12 (twelve) months preceding the event giving rise to the claim and, in all cases, will not exceed USD 100 (one hundred), or its equivalent in local currency.",
         ],
       },
       {
-        title: "8. Изменения сервиса",
+        title: "8. Changes to the Service",
         paragraphs: [
-          "BioNum может изменять функции, контент или приостанавливать работу Приложения без предварительного уведомления.",
+          "BioNum may modify features or content, or suspend operation of the App, without prior notice.",
         ],
       },
       {
-        title: "9. Интеллектуальная собственность",
+        title: "9. Intellectual Property",
         paragraphs: [
-          "Все материалы, тексты, расчеты, изображения и иные элементы Приложения принадлежат BioNum и защищены применимым законодательством.",
+          "All materials, text, calculations, images, and other elements of the App belong to BioNum and are protected by applicable law.",
         ],
       },
       {
-        title: "10. Применимое право",
+        title: "10. Governing Law",
         paragraphs: [
-          "Настоящие Условия регулируются законодательством страны регистрации владельца Приложения, если иное не предусмотрено обязательными нормами права.",
+          "These Terms are governed by the laws of the country in which the owner of the App is registered, unless otherwise required by mandatory provisions of applicable law.",
         ],
       },
       {
-        title: "11. Контакты",
+        title: "11. Contact Us",
         paragraphs: ["Email: Bionumknyaz@gmail.com"],
       },
     ],
@@ -122,102 +122,102 @@ export const termsOfUseContent: LegalDocumentSet = {
     platformTitle: "BioNum for Android",
     sections: [
       {
-        title: "1. Общие положения",
+        title: "1. General Provisions",
         paragraphs: [
-          "Настоящие Условия использования регулируют доступ и использование мобильного приложения BioNum, доступного через Google Play.",
-          "Используя Приложение, вы подтверждаете, что ознакомились с настоящими Условиями и соглашаетесь их соблюдать.",
+          "These Terms of Use govern access to and use of the BioNum mobile application available through Google Play.",
+          "By using the App, you confirm that you have read these Terms and agree to comply with them.",
         ],
       },
       {
-        title: "2. Характер предоставляемых услуг",
+        title: "2. Nature of the Services",
         paragraphs: [
-          "BioNum предоставляет нумерологические интерпретации, расчеты и контент эзотерического характера.",
-          "Вся информация в Приложении:",
+          "BioNum provides numerological interpretations, calculations, and content of an esoteric nature.",
+          "All information in the App:",
         ],
         bullets: [
-          "носит развлекательный и информационный характер",
-          "не является научно подтвержденной",
-          "не является точным прогнозом или предсказанием",
-          "не гарантирует каких-либо результатов или событий",
+          "is intended for entertainment and informational purposes",
+          "is not scientifically validated",
+          "is not an accurate forecast or prediction",
+          "does not guarantee any results or events",
         ],
       },
       {
-        title: "3. Отказ от профессиональной ответственности",
+        title: "3. Professional Advice Disclaimer",
         paragraphs: [
-          "Приложение не предоставляет профессиональные услуги и не заменяет обращение к специалистам.",
-          "BioNum не является:",
-          "Пользователь принимает решения самостоятельно и на свой риск.",
+          "The App does not provide professional services and is not a substitute for consulting a qualified professional.",
+          "BioNum does not provide:",
+          "Users make decisions independently and at their own risk.",
         ],
         bullets: [
-          "медицинской услугой",
-          "психологической помощью",
-          "финансовым или инвестиционным советом",
-          "юридической консультацией",
+          "medical services",
+          "psychological counseling",
+          "financial or investment advice",
+          "legal advice",
         ],
       },
       {
-        title: "4. Подписки и платежи (Google Play Billing)",
+        title: "4. Subscriptions and Payments (Google Play Billing)",
         paragraphs: [
-          "Некоторые функции Приложения доступны по подписке через Google Play Billing.",
+          "Some features of the App are available by subscription through Google Play Billing.",
         ],
         bullets: [
-          "Оплата осуществляется через аккаунт Google Play",
-          "Подписка автоматически продлевается, если не отменена заранее",
-          "Управление подпиской осуществляется через аккаунт Google",
-          "Возвраты регулируются политикой Google Play",
+          "Payment is processed through your Google Play account",
+          "The subscription renews automatically unless canceled in advance",
+          "You can manage your subscription through your Google account",
+          "Refunds are subject to Google Play's policies",
         ],
       },
       {
-        title: "5. Ответственность пользователя",
+        title: "5. User Responsibility",
         paragraphs: [
-          "Пользователь самостоятельно принимает все решения и несет за них полную ответственность.",
-          "BioNum не несет ответственности за:",
+          "Users make all decisions independently and bear full responsibility for them.",
+          "BioNum is not responsible for:",
         ],
         bullets: [
-          "действия пользователя",
-          "последствия принятых решений",
-          "возможные прямые или косвенные убытки",
+          "user actions",
+          "the consequences of decisions made",
+          "any direct or indirect losses",
         ],
       },
       {
-        title: "6. Отсутствие гарантий",
+        title: "6. No Warranties",
         paragraphs: [
-          "Приложение предоставляется по принципу as is.",
-          "BioNum не гарантирует:",
+          'The App is provided on an "as is" basis.',
+          "BioNum does not guarantee:",
         ],
         bullets: [
-          "точность информации",
-          "достижение конкретных результатов",
-          "полное соответствие ожиданиям пользователя",
+          "the accuracy of the information",
+          "the achievement of specific results",
+          "that the App will fully meet user expectations",
         ],
       },
       {
-        title: "7. Ограничение ответственности",
+        title: "7. Limitation of Liability",
         paragraphs: [
-          "В максимально допустимой действующим законодательством степени BioNum не несет ответственности за любые косвенные, случайные, специальные, штрафные или последующие убытки, включая, но не ограничиваясь, упущенной выгодой, потерей данных, репутационными потерями или иными нематериальными убытками, возникающими в связи с использованием или невозможностью использования Приложения.",
-          "Общая совокупная ответственность BioNum по любым требованиям, связанным с использованием Приложения, ограничивается суммой, фактически уплаченной пользователем за последние 12 (двенадцать) месяцев, предшествующих событию, повлекшему возникновение требования, но в любом случае не превышает 100 (сто) долларов США, эквивалентных в местной валюте.",
+          "To the fullest extent permitted by applicable law, BioNum is not liable for any indirect, incidental, special, punitive, or consequential damages, including, without limitation, lost profits, loss of data, reputational harm, or other intangible losses arising from the use of or inability to use the App.",
+          "BioNum's total aggregate liability for any claims related to the use of the App is limited to the amount actually paid by the user during the 12 (twelve) months preceding the event giving rise to the claim and, in all cases, will not exceed USD 100 (one hundred), or its equivalent in local currency.",
         ],
       },
       {
-        title: "8. Изменения сервиса",
+        title: "8. Changes to the Service",
         paragraphs: [
-          "BioNum может изменять функции, контент или приостанавливать работу Приложения без предварительного уведомления.",
+          "BioNum may modify features or content, or suspend operation of the App, without prior notice.",
         ],
       },
       {
-        title: "9. Интеллектуальная собственность",
+        title: "9. Intellectual Property",
         paragraphs: [
-          "Все материалы, тексты, расчеты, изображения и иные элементы Приложения принадлежат BioNum и защищены применимым законодательством.",
+          "All materials, text, calculations, images, and other elements of the App belong to BioNum and are protected by applicable law.",
         ],
       },
       {
-        title: "10. Применимое право",
+        title: "10. Governing Law",
         paragraphs: [
-          "Настоящие Условия регулируются законодательством страны регистрации владельца Приложения, если иное не предусмотрено обязательными нормами права.",
+          "These Terms are governed by the laws of the country in which the owner of the App is registered, unless otherwise required by mandatory provisions of applicable law.",
         ],
       },
       {
-        title: "11. Контакты",
+        title: "11. Contact Us",
         paragraphs: ["Email: Bionumknyaz@gmail.com"],
       },
     ],
@@ -227,200 +227,208 @@ export const termsOfUseContent: LegalDocumentSet = {
 export const privacyPolicyContent: LegalDocumentSet = {
   ios: {
     platformTitle: "BioNum for iOS",
-    effectiveDate: "Дата вступления в силу: 19 апреля 2026",
+    effectiveDate: "Effective date: April 19, 2026",
     sections: [
       {
-        title: "1. Общие положения",
+        title: "1. General Provisions",
         paragraphs: [
-          "Настоящая Политика конфиденциальности описывает, как приложение BioNum для iOS собирает, использует и защищает информацию пользователей.",
-          "Используя Приложение, вы соглашаетесь с условиями настоящей Политики.",
+          "This Privacy Policy describes how the BioNum app for iOS collects, uses, and protects user information.",
+          "By using the App, you agree to the terms of this Policy.",
         ],
       },
       {
-        title: "2. Персональные данные",
+        title: "2. Personal Data",
         paragraphs: [
-          "Мы можем собирать данные, которые вы предоставляете добровольно:",
-        ],
-        bullets: ["имя", "дату рождения", "email при регистрации или обращении"],
-      },
-      {
-        title: "3. Технические и аналитические данные",
-        paragraphs: [
-          "Мы можем автоматически собирать обезличенные технические и аналитические данные о работе Приложения, включая:",
+          "We may collect information that you provide voluntarily:",
         ],
         bullets: [
-          "тип устройства",
-          "версию операционной системы",
-          "язык устройства",
-          "действия внутри приложения",
-          "данные об использовании функций",
+          "name",
+          "date of birth",
+          "email address provided when registering or contacting us",
         ],
       },
       {
-        title: "4. Платежные данные",
+        title: "3. Technical and Analytics Data",
         paragraphs: [
-          "Мы не собираем и не храним данные банковских карт или иные платежные реквизиты пользователей.",
-          "Все платежи и подписки для iOS-версии обрабатываются через Apple App Store в соответствии с правилами Apple.",
-        ],
-      },
-      {
-        title: "5. Как мы используем данные",
-        paragraphs: ["Собранная информация может использоваться для:"],
-        bullets: [
-          "предоставления функционала приложения",
-          "персонализации нумерологических расчетов",
-          "улучшения работы приложения",
-          "анализа использования функций",
-          "связи с пользователем при необходимости",
-        ],
-      },
-      {
-        title: "6. Хранение и защита данных",
-        paragraphs: [
-          "Мы принимаем разумные организационные и технические меры для защиты данных пользователей от несанкционированного доступа, утраты, изменения или раскрытия.",
-          "При этом ни один способ хранения или передачи данных через интернет не может гарантировать абсолютную безопасность.",
-        ],
-      },
-      {
-        title: "7. Передача данных третьим лицам",
-        paragraphs: [
-          "Мы не продаем персональные данные пользователей и не передаем их третьим лицам, кроме случаев, когда это необходимо:",
+          "We may automatically collect anonymized technical and analytics data about the operation of the App, including:",
         ],
         bullets: [
-          "для исполнения требований закона",
-          "для работы сервисов аналитики и технической инфраструктуры",
-          "для обеспечения функционирования приложения и поддержки пользователей",
+          "device type",
+          "operating system version",
+          "device language",
+          "actions taken within the App",
+          "feature usage data",
         ],
       },
       {
-        title: "8. Аналитика и cookies",
+        title: "4. Payment Data",
         paragraphs: [
-          "Приложение может использовать инструменты аналитики для отслеживания активности пользователей и улучшения пользовательского опыта.",
-          "Если сторонние SDK или сервисы используют аналогичные технологии идентификации, они применяются только в пределах, необходимых для работы аналитики и продукта.",
+          "We do not collect or store bank card details or other user payment information.",
+          "All payments and subscriptions for the iOS version are processed through the Apple App Store in accordance with Apple's policies.",
         ],
       },
       {
-        title: "9. Дети",
-        paragraphs: [
-          "Приложение не предназначено для лиц младше 13 лет, и мы сознательно не собираем персональные данные детей.",
+        title: "5. How We Use Data",
+        paragraphs: ["The information we collect may be used to:"],
+        bullets: [
+          "provide the App's features",
+          "personalize numerological calculations",
+          "improve the operation of the App",
+          "analyze feature usage",
+          "contact users when necessary",
         ],
       },
       {
-        title: "10. Права пользователя",
+        title: "6. Data Storage and Security",
         paragraphs: [
-          "Вы имеете право обратиться к нам с запросом на доступ, исправление или удаление ваших данных, а также отозвать согласие на их обработку в объеме, применимом по закону.",
+          "We take reasonable organizational and technical measures to protect user data against unauthorized access, loss, alteration, or disclosure.",
+          "However, no method of storing or transmitting data over the internet can guarantee absolute security.",
         ],
       },
       {
-        title: "11. Изменения политики",
+        title: "7. Sharing Data with Third Parties",
         paragraphs: [
-          "Мы можем обновлять настоящую Политику конфиденциальности. Обновленная редакция вступает в силу с момента публикации в Приложении или на соответствующей странице.",
+          "We do not sell users' personal data or share it with third parties except when necessary:",
+        ],
+        bullets: [
+          "to comply with legal requirements",
+          "to operate analytics services and technical infrastructure",
+          "to ensure the App functions properly and to support users",
         ],
       },
       {
-        title: "12. Контакты",
+        title: "8. Analytics and Cookies",
         paragraphs: [
-          "По вопросам конфиденциальности: Bionumknyaz@gmail.com",
+          "The App may use analytics tools to track user activity and improve the user experience.",
+          "If third-party SDKs or services use similar identification technologies, those technologies are used only to the extent necessary for analytics and product operation.",
+        ],
+      },
+      {
+        title: "9. Children",
+        paragraphs: [
+          "The App is not intended for anyone under the age of 13, and we do not knowingly collect personal data from children.",
+        ],
+      },
+      {
+        title: "10. User Rights",
+        paragraphs: [
+          "You may contact us to request access to, correction of, or deletion of your data, or to withdraw your consent to its processing, to the extent permitted by applicable law.",
+        ],
+      },
+      {
+        title: "11. Changes to This Policy",
+        paragraphs: [
+          "We may update this Privacy Policy. The updated version takes effect when it is published in the App or on the relevant page.",
+        ],
+      },
+      {
+        title: "12. Contact Us",
+        paragraphs: [
+          "For privacy inquiries: Bionumknyaz@gmail.com",
         ],
       },
     ],
   },
   android: {
     platformTitle: "BioNum for Android",
-    effectiveDate: "Дата вступления в силу: 19 апреля 2026",
+    effectiveDate: "Effective date: April 19, 2026",
     sections: [
       {
-        title: "1. Общие положения",
+        title: "1. General Provisions",
         paragraphs: [
-          "Настоящая Политика конфиденциальности описывает, как приложение BioNum для Android собирает, использует и защищает информацию пользователей.",
-          "Используя Приложение, вы соглашаетесь с условиями настоящей Политики.",
+          "This Privacy Policy describes how the BioNum app for Android collects, uses, and protects user information.",
+          "By using the App, you agree to the terms of this Policy.",
         ],
       },
       {
-        title: "2. Персональные данные",
+        title: "2. Personal Data",
         paragraphs: [
-          "Мы можем собирать данные, которые вы предоставляете добровольно:",
-        ],
-        bullets: ["имя", "дату рождения", "email при регистрации или обращении"],
-      },
-      {
-        title: "3. Технические и аналитические данные",
-        paragraphs: [
-          "Мы можем автоматически собирать обезличенные технические и аналитические данные о работе Приложения, включая:",
+          "We may collect information that you provide voluntarily:",
         ],
         bullets: [
-          "тип устройства",
-          "версию операционной системы",
-          "язык устройства",
-          "действия внутри приложения",
-          "данные об использовании функций",
+          "name",
+          "date of birth",
+          "email address provided when registering or contacting us",
         ],
       },
       {
-        title: "4. Платежные данные",
+        title: "3. Technical and Analytics Data",
         paragraphs: [
-          "Мы не собираем и не храним данные банковских карт или иные платежные реквизиты пользователей.",
-          "Все платежи и подписки для Android-версии обрабатываются через Google Play в соответствии с правилами Google.",
-        ],
-      },
-      {
-        title: "5. Как мы используем данные",
-        paragraphs: ["Собранная информация может использоваться для:"],
-        bullets: [
-          "предоставления функционала приложения",
-          "персонализации нумерологических расчетов",
-          "улучшения работы приложения",
-          "анализа использования функций",
-          "связи с пользователем при необходимости",
-        ],
-      },
-      {
-        title: "6. Хранение и защита данных",
-        paragraphs: [
-          "Мы принимаем разумные организационные и технические меры для защиты данных пользователей от несанкционированного доступа, утраты, изменения или раскрытия.",
-          "При этом ни один способ хранения или передачи данных через интернет не может гарантировать абсолютную безопасность.",
-        ],
-      },
-      {
-        title: "7. Передача данных третьим лицам",
-        paragraphs: [
-          "Мы не продаем персональные данные пользователей и не передаем их третьим лицам, кроме случаев, когда это необходимо:",
+          "We may automatically collect anonymized technical and analytics data about the operation of the App, including:",
         ],
         bullets: [
-          "для исполнения требований закона",
-          "для работы сервисов аналитики и технической инфраструктуры",
-          "для обеспечения функционирования приложения и поддержки пользователей",
+          "device type",
+          "operating system version",
+          "device language",
+          "actions taken within the App",
+          "feature usage data",
         ],
       },
       {
-        title: "8. Аналитика и cookies",
+        title: "4. Payment Data",
         paragraphs: [
-          "Приложение может использовать инструменты аналитики для отслеживания активности пользователей и улучшения пользовательского опыта.",
-          "Если сторонние SDK или сервисы используют аналогичные технологии идентификации, они применяются только в пределах, необходимых для работы аналитики и продукта.",
+          "We do not collect or store bank card details or other user payment information.",
+          "All payments and subscriptions for the Android version are processed through Google Play in accordance with Google's policies.",
         ],
       },
       {
-        title: "9. Дети",
-        paragraphs: [
-          "Приложение не предназначено для лиц младше 13 лет, и мы сознательно не собираем персональные данные детей.",
+        title: "5. How We Use Data",
+        paragraphs: ["The information we collect may be used to:"],
+        bullets: [
+          "provide the App's features",
+          "personalize numerological calculations",
+          "improve the operation of the App",
+          "analyze feature usage",
+          "contact users when necessary",
         ],
       },
       {
-        title: "10. Права пользователя",
+        title: "6. Data Storage and Security",
         paragraphs: [
-          "Вы имеете право обратиться к нам с запросом на доступ, исправление или удаление ваших данных, а также отозвать согласие на их обработку в объеме, применимом по закону.",
+          "We take reasonable organizational and technical measures to protect user data against unauthorized access, loss, alteration, or disclosure.",
+          "However, no method of storing or transmitting data over the internet can guarantee absolute security.",
         ],
       },
       {
-        title: "11. Изменения политики",
+        title: "7. Sharing Data with Third Parties",
         paragraphs: [
-          "Мы можем обновлять настоящую Политику конфиденциальности. Обновленная редакция вступает в силу с момента публикации в Приложении или на соответствующей странице.",
+          "We do not sell users' personal data or share it with third parties except when necessary:",
+        ],
+        bullets: [
+          "to comply with legal requirements",
+          "to operate analytics services and technical infrastructure",
+          "to ensure the App functions properly and to support users",
         ],
       },
       {
-        title: "12. Контакты",
+        title: "8. Analytics and Cookies",
         paragraphs: [
-          "По вопросам конфиденциальности: Bionumknyaz@gmail.com",
+          "The App may use analytics tools to track user activity and improve the user experience.",
+          "If third-party SDKs or services use similar identification technologies, those technologies are used only to the extent necessary for analytics and product operation.",
+        ],
+      },
+      {
+        title: "9. Children",
+        paragraphs: [
+          "The App is not intended for anyone under the age of 13, and we do not knowingly collect personal data from children.",
+        ],
+      },
+      {
+        title: "10. User Rights",
+        paragraphs: [
+          "You may contact us to request access to, correction of, or deletion of your data, or to withdraw your consent to its processing, to the extent permitted by applicable law.",
+        ],
+      },
+      {
+        title: "11. Changes to This Policy",
+        paragraphs: [
+          "We may update this Privacy Policy. The updated version takes effect when it is published in the App or on the relevant page.",
+        ],
+      },
+      {
+        title: "12. Contact Us",
+        paragraphs: [
+          "For privacy inquiries: Bionumknyaz@gmail.com",
         ],
       },
     ],
